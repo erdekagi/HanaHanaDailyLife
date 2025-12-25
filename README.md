@@ -11,6 +11,13 @@
 Последняя версия приложения доступна в разделе Releases:
 https://github.com/erdekagi/HanaHanaDailyLife/releases
 
+## 🛠️ Стек
+- JavaScript
+- React Native
+- Expo
+- SQLite
+- Google Maps API
+
 ## 📱 Основные возможности
 
 ### 🔔 Уведомления
@@ -102,7 +109,7 @@ https://github.com/erdekagi/HanaHanaDailyLife/releases
 ## 🎥 Демо
 
 Видео с использованием приложения:
-👉 https://github.com/RDKg/HanaHanaDailyLife/assets/115119289/aa264b99-9b7e-4c6a-af59-c18bebc7971c
+👉 ![308200844-aa264b99-9b7e-4c6a-af59-c18bebc7971c](https://github.com/user-attachments/assets/c7e3ea55-e5d8-47c7-af36-851f87402980)
 
 ---
 
